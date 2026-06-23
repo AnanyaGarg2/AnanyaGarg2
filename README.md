@@ -9,3 +9,5 @@ Beyond technical expertise, I value consistency, adaptability, collaboration, an
 My long-term goal is to become a highly refined engineer with deep expertise in both the MERN stack and Deep Learning, enabling me to build intelligent, scalable, and impactful software solutions.
 ## ABOUT SELF
 Outside of technology, I enjoy playing chess and singing, activities that help me develop strategic thinking, creativity, and balance.
+## Contact me 
+EMAIL: ananyagarg602@gmail
