@@ -3,7 +3,7 @@
 ###
 
 <p data-importer="text" align="left">My name is Ananya Garg and I'm a final year engineering student .</p>
-[https://ananya-nu.vercel.app/](https://ananya-vu6f-git-main-ananya-gargs-projects.vercel.app/)
+https://ananya-vu6f-git-main-ananya-gargs-projects.vercel.app/
 
 ###
 
